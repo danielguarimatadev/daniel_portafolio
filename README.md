@@ -24,16 +24,16 @@ Portafolio profesional que muestra proyectos y experiencia con un enfoque especi
 Este portafolio demuestra mi capacidad para entregar soluciones Full-Stack Móviles de alta calidad y rendimiento, cubriendo todo el ciclo de desarrollo:
 
 * **Ingeniería Móvil (Flutter/Dart):**
-    * Especialista en desarrollo multiplataforma (iOS/Android) centrado en arquitecturas escalables y alto rendimiento.
-    * Fuerte enfoque en la experiencia del usuario (UX) y el diseño adaptable (*responsive*).
+    * Especialista en desarrollo multiplataforma (iOS/Android) centrado en arquitecturas escalables y alto rendimiento.
+    * Fuerte enfoque en la experiencia del usuario (UX) y el diseño adaptable (*responsive*).
 * **Desarrollo de APIs Escalables (Python/Django):**
-    * Experiencia en el diseño y construcción de servicios RESTful robustos utilizando Django REST Framework (DRF).
-    * Manejo de bases de datos y seguridad de endpoints esencial para la comunicación de aplicaciones móviles.
+    * Experiencia en el diseño y construcción de servicios RESTful robustos utilizando Django REST Framework (DRF).
+    * Manejo de bases de datos y seguridad de endpoints esencial para la comunicación de aplicaciones móviles.
 * **Integración y CI/CD (DevOps):**
-    * Familiaridad con prácticas de Integración Continua y Despliegue Continuo (CI/CD) utilizando GitHub Actions.
-    * Garantía de un flujo de trabajo eficiente desde el código hasta la producción, incluyendo el *bundling* y optimización de activos.
+    * Familiaridad con prácticas de Integración Continua y Despliegue Continuo (CI/CD) utilizando GitHub Actions.
+    * Garantía de un flujo de trabajo eficiente desde el código hasta la producción, incluyendo el *bundling* y optimización de activos.
 * **Patrones de Arquitectura:**
-    * Aplicación de patrones limpios en Flutter como MVVM y dominio del Django ORM para una lógica de negocio clara y mantenible.
+    * Aplicación de patrones limpios en Flutter como MVVM y dominio del Django ORM para una lógica de negocio clara y mantenible.
 
 ---
 
