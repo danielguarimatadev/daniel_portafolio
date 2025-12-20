@@ -1,15 +1,16 @@
-## 🇻🇪 README: Aplicación de Traducción y Aprendizaje de Lengua de Señas Venezolana (LSV)
+## 🚀 Daniel Guarimata: Portafolio de Desarrollador Móvil y Backend
 
-### # 🧏🏻‍♀️ LSV App: Conectando a Venezuela
+### # 💻 Mobile First | Flutter | Python | Django
 
 <div align="center">
 
-Una aplicación dedicada a facilitar la comunicación y el aprendizaje de la **Lengua de Señas Venezolana (LSV)**. Nuestro objetivo es reducir la barrera comunicacional, promoviendo la inclusión y el acceso a la información para la comunidad sorda en Venezuela.
+Portafolio profesional que muestra proyectos y experiencia con un enfoque especializado en el desarrollo de aplicaciones móviles con **Flutter** y la construcción de APIs robustas con **Python (Django)**.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Stack](https://img.shields.io/badge/Flutter-Dart-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
-[![Backend](https://img.shields.io/badge/Backend-Firebase%20%2F%20Supabase-FFCA28?logo=firebase&logoColor=white)](https://firebase.google.com)
-[![Version](https://img.shields.io/badge/Version-1.0.0-green)](https://github.com/danielguarimatadev/lsv-app/releases/tag/v1.0.0)
+[![Mobile Stack](https://img.shields.io/badge/Mobile-Flutter%20%7C%20Dart-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
+[![Backend Stack](https://img.shields.io/badge/Backend-Python%20%7C%20Django-092E20?logo=python&logoColor=white)](https://www.djangoproject.com/)
+[![Deployment](https://img.shields.io/badge/Deploy-GitHub%20Pages%20%2F%20Astro-FF5D01?logo=astro&logoColor=white)](https://astro.build)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Guarimata-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-guarimata-11436921a/)
 
 </br>
 
@@ -19,64 +20,61 @@ Una aplicación dedicada a facilitar la comunicación y el aprendizaje de la **L
 
 ---
 
-## ✨ Características y Funcionalidades
+## 🎯 Propuesta de Valor y Competencias Técnicas
 
-* **Traductor de Texto a Seña:** Permite al usuario introducir texto y visualizar su representación instantánea en LSV.
-* **Diccionario LSV:** Acceso rápido y visual a un diccionario completo de señas comunes y específicas de la variante venezolana.
-* **Módulos de Aprendizaje:** Aprende cada palabra paso a paso para dominar la LSV, incluyendo el alfabeto dactilológico.
-* **Tecnología de Animación 3D:** Integración de animación 3D con la biblioteca **O3D de Flutter** para mayor fluidez y claridad visual de los gestos.
-* **Interfaz Inclusiva:** Diseño simple y de alto contraste, optimizado para ser accesible.
+Este portafolio demuestra mi capacidad para entregar soluciones Full-Stack Móviles de alta calidad y rendimiento, cubriendo todo el ciclo de desarrollo:
+
+* **Ingeniería Móvil (Flutter/Dart):**
+    * Especialista en desarrollo multiplataforma (iOS/Android) centrado en arquitecturas escalables y alto rendimiento.
+    * Fuerte enfoque en la experiencia del usuario (UX) y el diseño adaptable (*responsive*).
+* **Desarrollo de APIs Escalables (Python/Django):**
+    * Experiencia en el diseño y construcción de servicios RESTful robustos utilizando Django REST Framework (DRF).
+    * Manejo de bases de datos y seguridad de endpoints esencial para la comunicación de aplicaciones móviles.
+* **Integración y CI/CD (DevOps):**
+    * Familiaridad con prácticas de Integración Continua y Despliegue Continuo (CI/CD) utilizando GitHub Actions.
+    * Garantía de un flujo de trabajo eficiente desde el código hasta la producción, incluyendo el *bundling* y optimización de activos.
+* **Patrones de Arquitectura:**
+    * Aplicación de patrones limpios en Flutter (Ej: BLoC, Provider o Riverpod) y dominio del Django ORM para una lógica de negocio clara y mantenible.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico Dominante
 
-| Componente | Tecnología | Propósito |
+| Componente | Tecnología | Enfoque |
 | :--- | :--- | :--- |
-| **Frontend/App** | **Flutter** | Desarrollo de la aplicación móvil multiplataforma. |
-| **Lenguaje** | **Dart** | Lenguaje de programación principal. |
-| **Animación 3D** | **O3D (Flutter)** | Renderizado de modelos 3D para la visualización de señas. |
-| **Backend / DB** | **Firebase, Supabase** | Servicios de autenticación y base de datos (según configuración). |
+| **Desarrollo Móvil** | **Flutter, Dart** | Creación de interfaces y lógica multiplataforma. |
+| **Backend/API** | **Python, Django, Django REST Framework** | Desarrollo de APIs seguras y manejo de la persistencia de datos. |
+| **Front. Web (Portafolio)** | **Astro, HTML/CSS/JS** | Generación de sitio estático rápido (SSG). |
+| **Base de Datos** | [Ej. **PostgreSQL**, MySQL, SQLite] | Gestión de datos relacionales y optimización de consultas. |
+| **Versionamiento** | **Git, GitHub** | Control de versiones y colaboración. |
 
 ---
 
-## 🚀 Ejecución
+## 📂 Mis Proyectos y Experiencia
 
-| Plataforma | Comando | Descripción |
-| :--- | :--- | :--- |
-| **Móvil (Local)** | `flutter run` | Inicia la aplicación en el dispositivo/emulador conectado. |
-| **Android** | `flutter run --release` | Compila y ejecuta la versión de lanzamiento para Android. |
-| **iOS** | `flutter run --release` | Compila y ejecuta la versión de lanzamiento para iOS. |
+Esta sección ofrece una vista rápida de la calidad y complejidad de mi trabajo, con acceso directo al portafolio completo.
 
----
-
-## ⚙️ Arquitectura del Proyecto
-
-El proyecto sigue una arquitectura modular enfocada en la separación de responsabilidades para facilitar el mantenimiento y escalabilidad:
-
-* **`lib/src/screens`**: Contiene las vistas principales de la aplicación (Diccionario, Traductor, Lecciones).
-* **`lib/src/components`**: Almacena los widgets reutilizables de Flutter.
-* **`lib/src/services`**: Maneja la lógica de conexión al backend (Firebase/Supabase) y la gestión de datos.
-* **`assets/`**: Aquí se almacenan los recursos estáticos, incluyendo los modelos 3D (`.glb`, `.obj`) utilizados por la biblioteca O3D para la representación de las señas.
-* **`pubspec.yaml`**: Define todas las dependencias del proyecto, incluyendo O3D.
+* **Ver Portafolio Completo:** Accede a todos mis proyectos, experiencia laboral y detalles técnicos:
+    $$\text{danielguarimatadev.github.io/daniel_portafolio/}$$
 
 ---
 
-## 🤝 Contribuciones
+## ⚙️ Habilidades y Metodologías
 
-Agradecemos mucho cualquier contribución para mejorar y expandir el contenido de la Lengua de Señas Venezolana.
-
-1.  Haz un **Fork** del repositorio.
-2.  Crea tu rama de característica (`git checkout -b feature/nueva-seña`).
-3.  Comitéa tus cambios (`git commit -m 'feat: Añadir la seña para "Arepa"'`).
-4.  Abre un **Pull Request**.
-
-### 🐛 Reportar Errores
-
-Por favor, reporta cualquier error o sugiera una nueva seña para el diccionario en la sección de [Issues](https://github.com/danielguarimatadev/daniel_portafolio/issues).
+* **Metodologías:** Scrum, RUP (Rational Unified Process).
+* **Testing:** Implementación de **Widget Testing** con Flutter para asegurar la calidad de la UI/UX.
+* **Desarrollo Profesional:** Manejo de la línea de comandos, refactorización de código, documentación técnica.
 
 ---
 
-## 📄 Licencia
+## 🤝 Contacto y Licencia
 
-Este proyecto está bajo la **Licencia MIT**.
+Estoy abierto a nuevas oportunidades y proyectos desafiantes.
+
+* **Perfil de GitHub:** https://github.com/danielguarimatadev/daniel\_portafolio
+* **LinkedIn:** https://www.linkedin.com/in/daniel-guarimata-11436921a/
+* **Correo Electrónico:** danigt.dev@gmail.com
+
+### 📄 Licencia
+
+Este portafolio está bajo la **Licencia MIT**.
