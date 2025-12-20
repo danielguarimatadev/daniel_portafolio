@@ -65,6 +65,7 @@ const { Content: AboutContent } = await render(aboutEntry);
     <!-- Education Section -->
     {
       siteConfig.sections.education && (
+        <div class="max-w-3xl mx-auto">
         <Timeline
           collection="education"
           variant="list"
@@ -73,6 +74,7 @@ const { Content: AboutContent } = await render(aboutEntry);
           icon={GraduationCap}
           sectionTitle="Educación"
         />
+        </div>
       )
     }
 
