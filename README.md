@@ -11,8 +11,7 @@ Portafolio profesional que muestra proyectos y experiencia con un enfoque especi
 [![Backend Stack](https://img.shields.io/badge/Backend-Python%20%7C%20Django-092E20?logo=python&logoColor=white)](https://www.djangoproject.com/)
 [![Deployment](https://img.shields.io/badge/Deploy-GitHub%20Pages%20%2F%20Astro-FF5D01?logo=astro&logoColor=white)](https://astro.build)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Guarimata-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-guarimata-11436921a/)
-
-</br>
+[![Contact](https://img.shields.io/badge/Contact-danigt.dev@gmail.com-informational)](mailto:danigt.dev@gmail.com) </br>
 
 
 
@@ -34,7 +33,7 @@ Este portafolio demuestra mi capacidad para entregar soluciones Full-Stack Móvi
     * Familiaridad con prácticas de Integración Continua y Despliegue Continuo (CI/CD) utilizando GitHub Actions.
     * Garantía de un flujo de trabajo eficiente desde el código hasta la producción, incluyendo el *bundling* y optimización de activos.
 * **Patrones de Arquitectura:**
-    * Aplicación de patrones limpios en Flutter (Ej: BLoC, Provider o Riverpod) y dominio del Django ORM para una lógica de negocio clara y mantenible.
+    * Aplicación de patrones limpios en Flutter como MVVM y dominio del Django ORM para una lógica de negocio clara y mantenible.
 
 ---
 
@@ -44,8 +43,7 @@ Este portafolio demuestra mi capacidad para entregar soluciones Full-Stack Móvi
 | :--- | :--- | :--- |
 | **Desarrollo Móvil** | **Flutter, Dart** | Creación de interfaces y lógica multiplataforma. |
 | **Backend/API** | **Python, Django, Django REST Framework** | Desarrollo de APIs seguras y manejo de la persistencia de datos. |
-| **Front. Web (Portafolio)** | **Astro, HTML/CSS/JS** | Generación de sitio estático rápido (SSG). |
-| **Base de Datos** | [Ej. **PostgreSQL**, MySQL, SQLite] | Gestión de datos relacionales y optimización de consultas. |
+| **Base de Datos** | **PostgreSQL, MySQL, SQLite** | Gestión de datos relacionales y optimización de consultas. |
 | **Versionamiento** | **Git, GitHub** | Control de versiones y colaboración. |
 
 ---
@@ -55,7 +53,7 @@ Este portafolio demuestra mi capacidad para entregar soluciones Full-Stack Móvi
 Esta sección ofrece una vista rápida de la calidad y complejidad de mi trabajo, con acceso directo al portafolio completo.
 
 * **Ver Portafolio Completo:** Accede a todos mis proyectos, experiencia laboral y detalles técnicos directamente en mi sitio web:
-    [https://danielguarimatadev.github.io/daniel\_portafolio/](https://danielguarimatadev.github.io/daniel_portafolio/)
+    [https://danielguarimatadev.github.io/daniel\_portafolio/](https://danielguarimatadev.github.io/daniel_portafolio/)
 
 ---
 
