@@ -25,16 +25,16 @@ Portafolio profesional que muestra proyectos y experiencia con un enfoque especi
 Este portafolio demuestra mi capacidad para entregar soluciones Full-Stack Móviles de alta calidad y rendimiento, cubriendo todo el ciclo de desarrollo:
 
 * **Ingeniería Móvil (Flutter/Dart):**
-    * Especialista en desarrollo multiplataforma (iOS/Android) centrado en arquitecturas escalables y alto rendimiento.
-    * Fuerte enfoque en la experiencia del usuario (UX) y el diseño adaptable (*responsive*).
+    * Especialista en desarrollo multiplataforma (iOS/Android) centrado en arquitecturas escalables y alto rendimiento.
+    * Fuerte enfoque en la experiencia del usuario (UX) y el diseño adaptable (*responsive*).
 * **Desarrollo de APIs Escalables (Python/Django):**
-    * Experiencia en el diseño y construcción de servicios RESTful robustos utilizando Django REST Framework (DRF).
-    * Manejo de bases de datos y seguridad de endpoints esencial para la comunicación de aplicaciones móviles.
+    * Experiencia en el diseño y construcción de servicios RESTful robustos utilizando Django REST Framework (DRF).
+    * Manejo de bases de datos y seguridad de endpoints esencial para la comunicación de aplicaciones móviles.
 * **Integración y CI/CD (DevOps):**
-    * Familiaridad con prácticas de Integración Continua y Despliegue Continuo (CI/CD) utilizando GitHub Actions.
-    * Garantía de un flujo de trabajo eficiente desde el código hasta la producción, incluyendo el *bundling* y optimización de activos.
+    * Familiaridad con prácticas de Integración Continua y Despliegue Continuo (CI/CD) utilizando GitHub Actions.
+    * Garantía de un flujo de trabajo eficiente desde el código hasta la producción, incluyendo el *bundling* y optimización de activos.
 * **Patrones de Arquitectura:**
-    * Aplicación de patrones limpios en Flutter (Ej: BLoC, Provider o Riverpod) y dominio del Django ORM para una lógica de negocio clara y mantenible.
+    * Aplicación de patrones limpios en Flutter (Ej: BLoC, Provider o Riverpod) y dominio del Django ORM para una lógica de negocio clara y mantenible.
 
 ---
 
@@ -54,8 +54,8 @@ Este portafolio demuestra mi capacidad para entregar soluciones Full-Stack Móvi
 
 Esta sección ofrece una vista rápida de la calidad y complejidad de mi trabajo, con acceso directo al portafolio completo.
 
-* **Ver Portafolio Completo:** Accede a todos mis proyectos, experiencia laboral y detalles técnicos:
-    $$\text{danielguarimatadev.github.io/daniel_portafolio/}$$
+* **Ver Portafolio Completo:** Accede a todos mis proyectos, experiencia laboral y detalles técnicos directamente en mi sitio web:
+    [https://danielguarimatadev.github.io/daniel\_portafolio/](https://danielguarimatadev.github.io/daniel_portafolio/)
 
 ---
 
@@ -71,8 +71,8 @@ Esta sección ofrece una vista rápida de la calidad y complejidad de mi trabajo
 
 Estoy abierto a nuevas oportunidades y proyectos desafiantes.
 
-* **Perfil de GitHub:** https://github.com/danielguarimatadev/daniel\_portafolio
-* **LinkedIn:** https://www.linkedin.com/in/daniel-guarimata-11436921a/
+* **Perfil de GitHub:** [https://github.com/danielguarimatadev/daniel\_portafolio](https://github.com/danielguarimatadev/daniel_portafolio)
+* **LinkedIn:** [https://www.linkedin.com/in/daniel-guarimata-11436921a/](https://www.linkedin.com/in/daniel-guarimata-11436921a/)
 * **Correo Electrónico:** danigt.dev@gmail.com
 
 ### 📄 Licencia
