@@ -1,6 +1,16 @@
 ---
-title: "About Me"
-photo: "https://api.dicebear.com/9.x/adventurer-neutral/svg?seed=Destiny&scale=90&backgroundColor=763900,9e5622,ecad80,f2d3b1,c0aede,b6e3f4"
+title: "Acerca de mí"
+photo: "/images/acerca_de.jpeg"
+---
+Soy **Mobile Developer** con profundo expertise en **Flutter/Dart** y Back-end con **Python/Django & DRF**. Mi enfoque no solo está en la funcionalidad, sino en el **rigor arquitectónico** y la **escalabilidad**.
+
+Me especializo en aplicar patrones de diseño robustos como **MVVM** en el lado móvil para garantizar la testabilidad, y en implementar principios **SOLID** en la lógica de negocio del Back-end (DRF). Mi objetivo es evolucionar hacia la **Arquitectura de Software**, diseñando sistemas que sean mantenibles y de alto rendimiento.
+
 ---
 
-I'm a full-stack developer with a passion for creating beautiful, functional, and user-friendly web applications. With experience in **modern frameworks and technologies**, I love turning ideas into reality through code. When I'm not coding, you can find me **exploring new technologies**, contributing to open source, or enjoying a good cup of coffee.
+
+### Mi Stack Tecnológico
+
+* **Mobile:** Flutter, Dart, MVVM, Pruebas Unitarias.
+* **Backend & APIs:** Python, Django, Django Rest Framework (DRF), PostgreSQL.
+* **Diseño:** Principios SOLID, Clean Architecture.

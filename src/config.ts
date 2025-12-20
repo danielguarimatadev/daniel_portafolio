@@ -95,55 +95,50 @@ export interface SiteConfig {
  * Update these values to customize your portfolio
  */
 export const siteConfig: SiteConfig = {
-  name: "🌻 Bloomfolio",
-  title: "Astro Portfolio Template built with 🌼 DaisyUI",
-  description:
-    "A modern, responsive, and customizable portfolio template built with Astro and DaisyUI. Perfect for developers, designers, and creatives to showcase their work and skills.",
-  avatar: "../assets/bloomfolio.png",
-  location: "🇧🇷 Brazil",
-  email: "hello@example.com",
-  socialLinks: {
-    github: "https://github.com/lauroguedes",
-    linkedin: "https://linkedin.com/in/lauroguedes",
-    twitter: "https://twitter.com/leowg",
-    bluesky: "https://bsky.app/profile/lauroguedes.bsky.social",
-    instagram: "https://instagram.com/lauroguedes.dev",
-    youTube: "https://youtube.com/leowgweb",
-    codetips: "https://codetips.cloud/u/lauroguedes",
-  },
-  enableThemeSelector: true,
-  extraLinks: {
-    enable: true,
-    links: [
-      {
-        link: "/blog/guides/bloomfolio-complete-guide",
-        icon: Flower2,
-        label: "Bloomfolio Guide",
-      },
-      {
-        link: "/blog/guides/content-collections-guide",
-        icon: BookOpen,
-        label: "Content Guide",
-      },
-      {
-        link: "/blog/guides/markdown-guide",
-        icon: FileText,
-        label: "Markdown Guide",
-      },
-      {
-        link: "https://github.com/lauroguedes/bloomfolio",
-        icon: CodeXml,
-        label: "GitHub Repo",
-      },
-    ],
-  },
-  sections: {
-    about: true,
-    projects: true,
-    blog: true,
-    work: true,
-    education: true,
-    hackathons: true,
-    contact: true,
-  },
+    name: "Daniel Guarimata", 
+    title: "Daniel Guarimata | Mobile Developer", 
+    description:
+        "Mobile Developer especializado en Flutter y Django, con enfoque en arquitectura de software limpia (MVVM, SOLID). Construyendo soluciones robustas para web y móvil.",
+    avatar: "", 
+    location: "🇻🇪 Venezuela", 
+    email: "danigt.dev@gmail.com", 
+    socialLinks: {
+        github: "https://github.com/danielguarimatadev", 
+        linkedin: "https://www.linkedin.com/in/daniel-guarimata-11436921a/", 
+    },
+    enableThemeSelector: true,
+    extraLinks: {
+        enable: true,
+        links: [ 
+          {
+            link: "/blog/guides/bloomfolio-complete-guide",
+            icon: Flower2,
+            label: "Bloomfolio Guide",
+          },
+          {
+            link: "/blog/guides/content-collections-guide",
+            icon: BookOpen,
+            label: "Content Guide",
+          },
+          {
+            link: "/blog/guides/markdown-guide",
+            icon: FileText,
+            label: "Markdown Guide",
+          },
+          {
+            link: "https://github.com/lauroguedes/bloomfolio",
+            icon: CodeXml,
+            label: "GitHub Repo",
+          },
+        ],
+    },
+    sections: {
+        about: true,
+        projects: true,
+        blog: false,
+        work: false,
+        education: true,
+        hackathons: false,
+        contact: true,
+    },
 };

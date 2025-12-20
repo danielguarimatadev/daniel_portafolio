@@ -1,10 +1,10 @@
 ---
-title: "University of Systems"
-subtitle: "Bachelor of Engineering in Information Technology"
-logo: "https://api.dicebear.com/9.x/icons/svg?seed=Brian"
-startDate: "2015-09-01"
-endDate: "2019-05-30"
-link: "https://university.edu"
+title: "INCES"
+subtitle: "Capacitación de Diseño y Desarrollo Web"
+logo: "https://unevoc.unesco.org/network/up/inces.jpg"
+startDate: "2023-08-02"
+endDate: "2023-09-02"
+link: "https://inces.gob.ve/"
 ---
 
-Focused on software engineering, algorithms, and data structures. Graduated with honors and participated in various coding competitions.
+HTML, CSS, JavaScript: Diseño responsivo, manipulación del DOM y desarrollo Front-end funcional.

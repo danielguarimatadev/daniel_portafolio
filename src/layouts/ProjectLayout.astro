@@ -31,10 +31,10 @@ function formatPeriod(startDate: Date, endDate?: Date) {
     month: "short",
     year: "numeric",
   };
-  const start = startDate.toLocaleDateString("en-US", options);
+  const start = startDate.toLocaleDateString("es", options);
   const end = endDate
-    ? endDate.toLocaleDateString("en-US", options)
-    : "Present";
+    ? endDate.toLocaleDateString("es", options)
+    : "Presente";
   return `${start} - ${end}`;
 }
 
@@ -75,7 +75,7 @@ function calculateDuration(startDate: Date, endDate?: Date) {
         >
           <path d="m15 18-6-6 6-6"></path>
         </svg>
-        Back to Projects
+        Volver a Proyectos
       </a>
     </div>
 
@@ -87,7 +87,7 @@ function calculateDuration(startDate: Date, endDate?: Date) {
           <Image
             src={image}
             alt={title}
-            class="w-full aspect-video object-cover"
+            class="w-full aspect-video object-contain"
             width={1200}
             height={630}
           />

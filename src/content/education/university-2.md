@@ -1,10 +1,10 @@
 ---
-title: "University of AI"
-subtitle: "Bachelor of Information Systems"
-logo: "https://api.dicebear.com/9.x/icons/svg?seed=Sophia"
-startDate: "2015-09-01"
-endDate: "2019-05-30"
-link: "https://university.edu"
+title: "ICAM - Instructor"
+subtitle: "Instructor de Programación en Python"
+logo: "https://api.dicebear.com/9.x/icons/svg?seed=Jessica"
+startDate: "2024-07-02"
+endDate: "2025-01-02"
+link: "https://www.instagram.com/icampuertolacruz/"
 ---
 
-Focused on software engineering, algorithms, and data structures. Graduated with honors and participated in various coding competitions.
+Fui instructor del Curso de Python en el ICAM, cubriendo fundamentos de POO avanzada, diseño curricular y evaluación de competencias.

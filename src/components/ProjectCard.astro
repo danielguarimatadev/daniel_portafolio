@@ -15,10 +15,10 @@ function formatPeriod(startDate: Date, endDate?: Date) {
     month: "short",
     year: "numeric",
   };
-  const start = startDate.toLocaleDateString("en-US", options);
+  const start = startDate.toLocaleDateString("es", options);
   const end = endDate
-    ? endDate.toLocaleDateString("en-US", options)
-    : "Present";
+    ? endDate.toLocaleDateString("es", options)
+    : "Presente";
   return `${start} - ${end}`;
 }
 ---
@@ -29,7 +29,7 @@ function formatPeriod(startDate: Date, endDate?: Date) {
       <Image
         src={project.data.image}
         alt={project.data.title}
-        class="w-full h-full object-cover"
+        class="w-full h-full object-contain"
         width={600}
         height={400}
       />
