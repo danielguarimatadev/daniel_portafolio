@@ -1,6 +1,6 @@
 ---
 title: "Acerca de mí"
-photo: "/images/acerca_de.jpeg"
+photo: "images/acerca_de.jpeg"
 ---
 Soy **Mobile Developer** con profundo expertise en **Flutter/Dart** y Back-end con **Python/Django & DRF**. Mi enfoque no solo está en la funcionalidad, sino en el **rigor arquitectónico** y la **escalabilidad**.
 
