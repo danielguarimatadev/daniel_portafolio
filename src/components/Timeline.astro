@@ -29,7 +29,7 @@ const entries = await getCollection(collection);
 
 // Sort by start date, most recent first
 const sortedEntries = entries.sort(
-  (a, b) => b.data.startDate.getTime() - a.data.startDate.getTime()
+  (a, b) => b.data.startDate.getTime() - a.data.startDate.getTime(),
 );
 
 function formatPeriod(startDate: Date, endDate?: Date) {
@@ -38,9 +38,7 @@ function formatPeriod(startDate: Date, endDate?: Date) {
     year: "numeric",
   };
   const start = startDate.toLocaleDateString("es", options);
-  const end = endDate
-    ? endDate.toLocaleDateString("es", options)
-    : "Presente";
+  const end = endDate ? endDate.toLocaleDateString("es", options) : "Presente";
   return `${start} - ${end}`;
 }
 
@@ -49,11 +47,11 @@ const entriesWithContent = await Promise.all(
   sortedEntries.map(async (entry) => {
     const { Content } = await render(entry);
     return { entry, Content };
-  })
+  }),
 );
 ---
 
-<section id={collection} class={`py-20 px-1 bg-${backgroundColor}`}>
+<section id={collection} class={`py-2 px-1 bg-${backgroundColor}`}>
   <div class={`mx-auto ${variant === "timeline" ? "max-w-4xl" : "max-w-4xl"}`}>
     <div class="text-center mb-12">
       <h2 class="text-4xl font-bold">{sectionTitle}</h2>
@@ -129,25 +127,30 @@ const entriesWithContent = await Promise.all(
           {entriesWithContent.map(({ entry, Content }, index) => (
             <li class="border-b hover:opacity-85 transition-opacity border-base-300 last:border-b-0">
               <details class="collapse">
-                <summary class="collapse-title pe-5">
-                  <div class="list-row p-0 items-center after:hidden">
-                    <div>
-                      {entry.data.logo && (
-                        <div class="avatar">
-                          <div class="w-10 mask mask-squircle">
-                            <img src={entry.data.logo} alt={entry.data.title} />
-                          </div>
+                <summary class="collapse-title pe-1">
+                  <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 p-1 after:hidden">
+                    {/* Logo */}
+                    {entry.data.logo && (
+                      <div class="avatar">
+                        <div class="w-10 mask mask-squircle">
+                          <img src={entry.data.logo} alt={entry.data.title} />
                         </div>
-                      )}
-                    </div>
+                      </div>
+                    )}
 
-                    <div>
-                      <h3 class="font-bold text-lg">{entry.data.title}</h3>
-                      <p class={`text-${color} font-semibold text-sm`}>
+                    {/* Texto principal */}
+                    <div class="text-left flex-1">
+                      <h3 class="font-bold text-lg text-left">
+                        {entry.data.title}
+                      </h3>
+                      <p
+                        class={`text-${color} font-semibold text-sm text-left`}
+                      >
                         {entry.data.subtitle}
                       </p>
                     </div>
 
+                    {/* Periodo */}
                     <div class="text-sm text-base-content/70 font-mono whitespace-nowrap">
                       {formatPeriod(entry.data.startDate, entry.data.endDate)}
                     </div>
