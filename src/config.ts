@@ -96,9 +96,9 @@ export interface SiteConfig {
  */
 export const siteConfig: SiteConfig = {
     name: "Daniel Guarimata", 
-    title: "Daniel Guarimata | Mobile Developer", 
+    title: "Daniel Guarimata | Software Engineer", 
     description:
-        "Mobile Developer especializado en Flutter y Django, con enfoque en arquitectura de software limpia (MVVM, SOLID). Construyendo soluciones robustas para web y móvil.",
+        "Software Engineer especializado en Flutter, Django y React, con enfoque en arquitectura de software limpia (MVVM, SOLID). Construyendo soluciones robustas para web y móvil.",
     avatar: "", 
     location: "🇻🇪 Venezuela", 
     email: "danigt.dev@gmail.com", 
