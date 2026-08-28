@@ -3,7 +3,7 @@ title: "CISCO"
 subtitle: "Fundamentos de Conmutación, Enrutamiento y Redes Inalámbricas"
 logo: "https://en.wikipedia.org/wiki/Cisco#/media/File:Cisco_logo_blue_2016.svg"
 startDate: "2023-03-21"
-endDate: "Actualidad"
+endDate: "2026-28-26"
 link: "https://www.cisco.com/"
 ---
 
