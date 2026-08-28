@@ -6,6 +6,6 @@ startDate: "2023-01-01T12:00:00"
 link: "https://www.cisco.com/"
 ---
 
-Introducción a redes (CCNA v7) 
-Introduccion a Ciberseguridad
-Actualmente capacitandome en CCNA: Switching, Routing, and Wireless Essentials
+Introducción a redes (CCNA v7). <br>
+Introduccion a Ciberseguridad.<br>
+Y actualmente capacitandome en CCNA: Switching, Routing, and Wireless Essentials.<br>
