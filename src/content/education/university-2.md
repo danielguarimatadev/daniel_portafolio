@@ -7,4 +7,4 @@ endDate: "2025-01-02"
 link: "https://www.instagram.com/icampuertolacruz/"
 ---
 
-Fui instructor del Curso de Python en el ICAM, cubriendo fundamentos de POO avanzada, diseño curricular y evaluación de competencias.
+Instructor de Curso de Python en el centro de estudios ICAM de Anzoategui. Modulos del curso: Fundamentos de la Programacion, Programacion Orientada a Objetos, Practicas y Evaluación de Proyecto final.
