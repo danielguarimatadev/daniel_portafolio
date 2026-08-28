@@ -8,4 +8,4 @@ link: "https://www.cisco.com/"
 
 Introducción a redes (CCNA v7). <br>
 Introduccion a Ciberseguridad.<br>
-Y actualmente capacitandome en CCNA: Switching, Routing, and Wireless Essentials.<br>
+Actualmente capacitandome en CCNA: Switching, Routing, and Wireless Essentials.<br>
